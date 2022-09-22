@@ -245,7 +245,7 @@
             <section class="page-section pt-0 pb-0 banner-section bg-dark light-content mb-100 mb-sm-20">
                 <div class="container relative">
 
-                    <div class="row">
+                    <div class="row reverse">
 
                         <div class="col-lg-8">
                             <div class="mt-140 mt-lg-80 mt-md-60 mt-xs-30 mb-140 mb-lg-80">
@@ -280,7 +280,7 @@
             <section class="page-section pt-0 pb-0 banner-section bg-dark light-content">
                 <div class="container relative">
 
-                    <div class="row">
+                    <div class="row reverse1">
 
                         <div class="col-lg-4 relative">
                             <div class="">

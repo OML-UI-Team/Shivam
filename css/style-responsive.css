@@ -5,23 +5,23 @@
 /* ================ Timeline Media Queries ================ */
 
 @media screen and (max-width:1024px){
-
-}
+    
+    .vid video { position: unset; height:100%;}
+    section.home-section .min-height-100vh { min-height: auto; }
+    }
 
 @media screen and (max-width:991px){
-    .shivam-padding-t {
-        padding: 100px 30px;
+    .shivam-padding-t { padding:25px; }    
+    /* .main-nav.transparent { opacity: 0.7 !important; } */
     }
-}
 
 @media screen and (max-width:768px){
+    
     .bg-dark.light-content {
-        background-color: #068394 !important;
-        padding: 50px 0 !important;
-    }
-    .site-footer [class^=col-] {
-        margin-bottom: 0;
-    }
+        background-color: #068394 !important; padding: 50px 0 !important;
+        }
+    .site-footer [class^=col-] { margin-bottom: 0; }
+
 }
 
 
@@ -134,9 +134,22 @@
     }
 
 @media screen and (max-width:575px){
+
+    .vid { line-height: 0; }
+    .vid video { height:40vh;}
     .contact-item { margin: 0 0 20px; }
-    .ci-link {
-        font-size: 18px;
-        font-weight: 500;
-        }
+    .ci-link { font-size: 18px; font-weight: 500; }
+    .page-section { padding: 40px 0; }
+    .local-scroll { margin: 0 0 25px; }
+
+    .hs-line-7 { font-size:20px; margin-top: 50px; }
+    .hs-line-6 { font-size: 16px; }
+
+    .row.reverse {        
+        flex-direction: column-reverse;
+    }
+    .row.reverse h3.banner-heading, .row.reverse1 h3.banner-heading {
+        margin: 30px 0 15px;
+    }
+
     }
