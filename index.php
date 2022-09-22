@@ -487,6 +487,24 @@
                                 </footer>
                             </blockquote>
 
+                            <blockquote class="testimonial">
+                                <footer class="testimonial-author logo-bg">
+                                    <img src="images/clients/sai.jpg">
+                                </footer>
+                            </blockquote>
+
+                            <blockquote class="testimonial">
+                                <footer class="testimonial-author logo-bg">
+                                    <img src="images/clients/luk.jpg">
+                                </footer>
+                            </blockquote>
+
+                            <blockquote class="testimonial">
+                                <footer class="testimonial-author logo-bg">
+                                    <img src="images/clients/fag.jpg">
+                                </footer>
+                            </blockquote>
+
 
 
 

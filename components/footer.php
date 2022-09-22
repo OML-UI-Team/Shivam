@@ -1,8 +1,11 @@
 <footer class="site-footer">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                            <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved </p>
+                        <div class="col-md-6 col-sm-6 col-xs-6 text-left">
+                            <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved</p>
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6 text-right">
+                            <a href="disclaimer.php">Disclaimer</a> | <a href="terms-conditions.php">Terms & Conditions</a> 
                         </div>
                     </div>
                 </div>
