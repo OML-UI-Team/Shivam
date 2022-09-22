@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
 
-                <nav class="main-nav dark transparent stick-fixed wow-menubar" style="background:#0078a4 !important;">
+                <nav class="main-nav dark transparent stick-fixed wow-menubar header-bg" style="background:#0078a4 !important;">
                     <div class="full-wrapper relative clearfix">
 
                         <!-- Logo ( * your text or image into link tag *) -->
@@ -35,24 +35,22 @@
             </div>
         </div>
 
-        
+        <div class="vid">
+            <video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
+                <source src="video/shivam-presentation.mp4" type="video/mp4">
+            </video>
+        </div>
 
-            <div class="vid">
-                <video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
-                    <source src="video/shivam-presentation.mp4" type="video/mp4">
-                </video>
+        <!-- Home Section -->
+        <section class="home-section bg-dark-alfa-50 bg-scroll light-content"
+            data-background="images/mobile-video-placeholder.jpg" id="home">
+            <div class="min-height-100vh d-flex align-items-center">
+                <!-- Hero Content -->
+                <div class="home-content"></div>
+                <!-- End Hero Content -->
             </div>
-
-            <!-- Home Section -->
-            <section class="home-section bg-dark-alfa-50 bg-scroll light-content"
-                data-background="images/mobile-video-placeholder.jpg" id="home">
-                <div class="min-height-100vh d-flex align-items-center">
-                    <!-- Hero Content -->
-                    <div class="home-content"></div>
-                    <!-- End Hero Content -->
-                </div>
-            </section>
-            <!-- End Home Section -->
+        </section>
+        <!-- End Home Section -->
 
             <!-- About Section -->
             <section class="page-section bg-color1">

@@ -6447,6 +6447,16 @@ table.shopping-cart-table tr td{
 /* Timeline css */
 
 /* ================ The Timeline ================ */
+
+.row.reverse {
+    display: flex;
+    align-items: center;
+}
+.row.reverse1 {
+    display: flex;
+    align-items: center;
+}
+
 section.time_line {
     background: #f2fcff;
     padding: 80px 0;
