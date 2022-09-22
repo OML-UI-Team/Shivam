@@ -1,16 +1,7 @@
 /* ==============================
    Fonts
    ============================== */
-  
-  /*
-   * Font Awesome
-   */
-  
-  @import "all.min.css";
-  
-  /*
-   * Font HK Grotesk
-   */
+
 
 @font-face {
     font-family: 'HK_Grotesk';
@@ -300,7 +291,7 @@ img:not([draggable]), embed, object, video{
 body{
     color: #111;
     font-family: var(--font-global);
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 400; /*500*/ 
     letter-spacing: -0.00208em;
     line-height: 1.61;    
@@ -3141,10 +3132,10 @@ a.logo:hover{
 .alt-features-descr{
     margin-bottom: 15px;
     font-family: var(--font-global-alt);
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 400; /*500*/ 
     line-height: 1.625;
-    color: #757575;
+    color: #111;
 }
 .light-content .alt-features-descr{
     color: #bbb;
@@ -4071,8 +4062,8 @@ a.logo:hover{
 }
 .ci-link{
     margin-top: 11px;
-    font-size: 12px;
-    font-weight: 600;
+    
+    
     letter-spacing: 1px;
     text-transform: uppercase;
 }
@@ -4082,6 +4073,7 @@ a.logo:hover{
     opacity: .67;
     -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
     transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
+    
 }
 .ci-link a:after{
     content: "";
@@ -4120,7 +4112,7 @@ a.logo:hover{
     color: #fff;
 }
 .light-content .ci-text{
-    color: #bbb;
+    
 }
 .light-content .ci-link a{
     color: #fff;
@@ -6609,7 +6601,7 @@ section.time_line {
   .desc {
     margin: 1em 0.75em 0 0;
     
-    font-size: 0.77777em;
+    font-size:15px;
     font-style: italic;
     line-height: 1.5em;
   }

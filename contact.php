@@ -155,10 +155,10 @@
                                         <div class="ci-title">
                                             Address
                                         </div>
-                                        <div class="ci-text">
+                                        <p>
                                             KHASRA NO. 92/17/2, 18/1, INDUSTRIAL SECTOR-52,
                                             VILLAGE KUNDLI, Sonipat (Haryana), 131028
-                                        </div>
+                                            </p>
                                         <div class="ci-link">
                                             <a href="https://goo.gl/maps/AF8phm6bZ3MRoNARA" target="_blank">See on the
                                                 Map</a>
@@ -177,12 +177,13 @@
                                         <div class="ci-title">
                                             Email
                                         </div>
-                                        <div class="ci-text">
-                                            shivamoffset01@gmail.com
-                                        </div>
-                                        <div class="ci-link">
-                                            <a href="mailto:shivamoffset01@gmail.com">Say Hello</a>
-                                        </div>
+                                        
+                                        <div class="ci-link"><a href="mailto:manmohan@sbipl.in">manmohan@sbipl.in</a></div>
+                                        <div class="ci-link"><a href="mailto:vikas@sbipl.in">vikas@sbipl.in</a></div>
+                                        
+
+                                        
+                                        
                                     </div>
                                 </div>
                                 <!-- End Email -->
