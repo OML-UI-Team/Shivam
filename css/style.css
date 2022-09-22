@@ -6236,19 +6236,11 @@ table.shopping-cart-table tr td{
 }
 .site-footer a
 {
-<<<<<<< Updated upstream
   color:#fff;
 }
 .site-footer a:hover
 {
   color:#fff;
-=======
-  color:#737373;
-}
-.site-footer a:hover
-{
-  color:#3366cc;
->>>>>>> Stashed changes
   text-decoration:none;
 }
 .footer-links
@@ -6631,9 +6623,5 @@ section.time_line {
 .call-action-3-image-2 img {
     border: #fff solid 1px;
 }
-<<<<<<< Updated upstream
 .mb-30{margin-bottom: 30px;}
 .text-right{text-align: right;}
-=======
-.mb-30{margin-bottom: 30px;}
->>>>>>> Stashed changes
